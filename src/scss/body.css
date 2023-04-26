@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main .container {
+  display: flex;
+  gap: 19px;
+  margin-left: 40px;
+  margin-top: 45px;
+}
+.main .container img {
+  height: 168px;
+  width: 125px;
+  border-radius: 5px;
+}
+.main .container .child h3 {
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  text-align: left;
+}
+.main .container .child h3 span a {
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #918E9B;
+}
+.main .container .child h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2B283A;
+  height: 40px;
+}
+.main .container .child b {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2B283A;
+  margin-bottom: 9px;
+}
+.main .container .child p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #2B283A;
+  width: 326px;
+  height: 45px;
+}/*# sourceMappingURL=body.css.map */
